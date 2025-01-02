@@ -2,7 +2,7 @@
 INFORMATION
 -----------
 A very basic calculator I created to learn Qt.
-It has several bugs but I'm not motivated enough to fix them (they're easy to fix I want to build something else).
+It has several bugs but I'm not motivated enough to fix them (they're easy to fix and I want to build something else).
 
 -----------
 TESTING
